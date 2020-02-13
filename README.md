@@ -1,5 +1,5 @@
 # Honey-Combs
-Homework for the Computer Programming course @ ACS, UPB 2019
+Homework for the Computer Programming course @ ACS, UPB 2017
 
 # Algorithm
 
